@@ -1,0 +1,10 @@
+/* *{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+} */
+.containers{
+    max-width: 1239px;
+    margin: 0 auto;
+    padding: 0 16px;
+}
